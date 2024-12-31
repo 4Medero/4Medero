@@ -1,16 +1,12 @@
-## Hi there 👋
+She’s a 10 but she uses GOTO in her code.
 
-<!--
-**4Medero/4Medero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```c
+int main() {
+  printf("ur data are XORED!\n");
+  asm(".byte 0x90,0x90,0x90,0x90\n\t"
+          "ret \n\t");
+  return 0;
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ View my [website^-^](https://4medero.github.io/)
